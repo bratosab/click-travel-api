@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "Ticket": 2
+  },
+  "models": {
+    "Destination": {
+      "NYC": "{\"name\":\"New York\",\"code\":\"NYC\",\"weather\":\"Sunny\",\"isDreamDestination\":\"true\"}"
+    },
+    "Ticket": {
+      "1": "{\"number\":\"1\",\"seat\":\"22A\",\"time\":\"14:08\",\"gate\":\"C\",\"class\":\"First class\",\"to\":\"NYC\",\"from\":\"CDG\",\"flight\":\"Air France 123\",\"passenger\":\"Your name\"}"
+    }
+  }
+}
